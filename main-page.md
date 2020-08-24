@@ -7,8 +7,8 @@ License: [MIT](./License.md)
 Git-Logo by Jason Long - http://git-scm.com/downloads/logos, License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 ---
-### [**Что такое git**](./What-Git.md)
-[![klic-please](./assets/What-Git-Logo.png)](./What-Git.md)
+### [**Что такое git**](./what-Git.md)
+[![klic-please](./assets/What-Git-Logo.png)](./what-Git.md)
 
 What-Git-Logo by Jason Long - http://git-scm.com/downloads/logos, License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
