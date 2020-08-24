@@ -5,6 +5,6 @@ git remote add [*имя_удаленного_репозитория*] [*адре
 > git remote add origin https://github.com/avsudnichnikov/example
 
 ---
-[К операциям](/operations-git/Git-operations)
+[К операциям](/operations-git/Git-operations.md)
 
  [Следующая операция](/operations-git/Git-status.md)

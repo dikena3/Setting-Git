@@ -5,6 +5,6 @@
 По сути, эта команда создает пустой репозиторий на вашем компьютере.
 
 ---
-[К операциям](/operations-git/Git-operations)
+[К операциям](/operations-git/Git-operations.md)
 
  [Следующая операция](/operations-git/Git-push.md)

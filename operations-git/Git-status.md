@@ -1,6 +1,6 @@
 **git status** позволяет отследить состояние репозитория. Позволяет узнать, какие изменения необходимо зарегистрировать Git (при необходимости — отменить).
 
 ---
-[К операциям](/operations-git/Git-operations)
+[К операциям](/operations-git/Git-operations.md)
 
  [Следующая операция](/operations-git/gitignore.md)

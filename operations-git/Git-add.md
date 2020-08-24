@@ -5,6 +5,6 @@
 > git add
  
  ---
- [К операциям](/operations-git/Git-operations)
+ [К операциям](/operations-git/Git-operations.md)
 
  [Следующая операция](/operations-git/Git-commit.md)
