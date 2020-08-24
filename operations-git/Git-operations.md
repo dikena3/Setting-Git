@@ -1,20 +1,20 @@
-* [**Git add**](./operations-git/Git-add.md)
+* [**git add**](./Git-add.md)
 
-* [**Git commit**](./operations-git/Git-commit.md)
+* [**git commit**](./Git-commit.md)
 
-* [**git config**](./operations-git/Git-config.md)
+* [**git config**](./Git-config.md)
 
-* [**git init**](./operations-git/Git-init.md)
+* [**git init**](./Git-init.md)
 
-* [**git push**](./operations-gi/Git-push.md)
+* [**git push**](./Git-push.md)
 
-* [**git remote add [имя_удаленного_репозитория] [адрес]**](./operations-git/Git-remote-add.md)
+* [**git remote add [имя_удаленного_репозитория] [адрес]**](./Git-remote-add.md)
 
-* [**git status**](./operations-git/Git-status.md)
+* [**git status**](./Git-status.md)
 
-* [**gitignore**](./operations-git/gitignore.md)
+* [**gitignore**](./gitignore.md)
 
 ---
-[вернуться к содержанию](./main-page.md)
+[вернуться к содержанию](/main-page.md)
 
-[Перейти к ветвлению git](./Branch-git/Git-branch.md)
+[Перейти к ветвлению git](/Branch-git/Git-branch.md)

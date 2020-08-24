@@ -13,7 +13,7 @@ Git-Logo by Jason Long - http://git-scm.com/downloads/logos, License: [CC BY 3.0
 What-Git-Logo by Jason Long - http://git-scm.com/downloads/logos, License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 ---
-### [**операции Git**](./operations-git/Git-operanions.md)
+### [**операции Git**](./operations-git/Git-operations.md)
 [![klic-gear](./assets/Gear.png)](./operations-git/Git-operations.md)
 
 ---

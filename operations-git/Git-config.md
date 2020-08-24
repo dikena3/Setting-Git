@@ -8,6 +8,6 @@
 git config --global user.email "your_email@whatever.com"
 
 ---
-[К операциям](./operations-git/Git-operations)
+[К операциям](/operations-git/Git-operations)
 
- [Следующая операция](./operations-git/Git-init.md)
+ [Следующая операция](/operations-git/Git-init.md)

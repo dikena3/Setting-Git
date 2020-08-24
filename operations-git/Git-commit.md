@@ -5,6 +5,6 @@
 > git commit -m «init»
 
 ---
-[К операциям](./operations-git/Git-operations)
+[К операциям](/operations-git/Git-operations)
 
- [Следующая операция](./operations-git/Git-config.md)
+ [Следующая операция](/operations-git/Git-config.md)
