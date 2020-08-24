@@ -8,7 +8,7 @@ Git-Logo by Jason Long - http://git-scm.com/downloads/logos, License: [CC BY 3.0
 
 ---
 ### [**Что такое git**](./What-Git.md)
-[![klic-please](./assets/What-Git-Logo.png)](./What-Git)
+[![klic-please](./assets/What-Git-Logo.png)](./What-Git.md)
 
 What-Git-Logo by Jason Long - http://git-scm.com/downloads/logos, License: [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
